@@ -1,11 +1,10 @@
 
 Hi, my name is Pradeep J V. 
-
-I'm interested in Azure cloud Technology with Python
-
-My Skills: 1.Web Technologies like Python, Powershell Scripting.
-           2.Database like MySQLlanguage.
-           3.Cloud Technology like Microsoft Azure.
-           4.MS office tools like MS Excel,MS Word,Powerpoint Presentation.
+Have experience in Azure cloud Technology and Web aApplication and Mobile application development. 
+My Skills: 1.Web Technologies like Python, Powershell Scripting,HTML,CSS,Javascript,JQuery
+           2.Mobile app technologies like Flutter,
+           3.Database like MySQLlanguage.
+           4.Cloud Technology like Microsoft Azure.
+           5.MS office tools like MS Excel,MS Word,Powerpoint Presentation.
  
 
